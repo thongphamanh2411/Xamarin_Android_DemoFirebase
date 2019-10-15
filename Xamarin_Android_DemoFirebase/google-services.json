@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94077354331",
+    "firebase_url": "https://xamarinandroiddemofirebase.firebaseio.com",
+    "project_id": "xamarinandroiddemofirebase",
+    "storage_bucket": "xamarinandroiddemofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94077354331:android:8ca3cde58081194bcd5a7e",
+        "android_client_info": {
+          "package_name": "com.companyname.xamarin_android_demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94077354331-ujoevg7cd8dm37fd0orlvgs5eulmh27v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.xamarin_android_demofirebase",
+            "certificate_hash": "c094fa63338965fed97f3ade7a79361e5c83832a"
+          }
+        },
+        {
+          "client_id": "94077354331-ee43oa8sm4d65uho8s3gukgnhi0akgn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_32ccV1IHQbLs0QKDt-5QjuOIYVnLkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94077354331-or7g3njo13nf7j85rlhcntsfemhs12km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
